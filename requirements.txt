@@ -1,0 +1,15 @@
+streamlit
+streamlit-extras
+streamlit-option-menu
+
+langchain
+langchain-core
+langchain-groq
+langgraph
+
+chromadb
+sentence-transformers
+
+pypdf
+
+python-dotenv
