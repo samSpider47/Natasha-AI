@@ -23,5 +23,3 @@ Natasha AI is a conversational AI assistant built with LangGraph, Groq, Streamli
 - Groq API
 - ChromaDB
 - Sentence Transformers
-
-## Project Structure
